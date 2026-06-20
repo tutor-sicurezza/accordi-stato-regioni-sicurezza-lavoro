@@ -1,4 +1,8 @@
 ---
+layout: default
+title: "Accordo Stato-Regioni 21 dicembre 2011 — Rep. 221/CSR — Formazione lavoratori, preposti, dirigenti"
+description: "Sintesi dell’Accordo Stato-Regioni del 21 dicembre 2011, Rep. 221/CSR: durata, contenuti minimi e modalità della formazione obbligatoria di lavoratori, preposti e dirigenti."
+permalink: /accordo-stato-regioni-221-csr-2011-lavoratori/
 numeroAccordo: "221/CSR"
 data: "2011-12-21"
 materia: "Formazione lavoratori, preposti, dirigenti"

@@ -1,4 +1,8 @@
 ---
+layout: default
+title: "Accordo Stato-Regioni 22 febbraio 2012 — Rep. 53/CSR — Abilitazione operatori attrezzature"
+description: "Sintesi dell’Accordo Stato-Regioni del 22 febbraio 2012, Rep. 53/CSR, sull’abilitazione degli operatori di attrezzature di lavoro ai sensi dell’art. 73, comma 5, D.Lgs. 81/2008."
+permalink: /accordo-stato-regioni-53-csr-2012-attrezzature/
 numeroAccordo: "53/CSR"
 data: "2012-02-22"
 materia: "Abilitazione operatori attrezzature di lavoro"

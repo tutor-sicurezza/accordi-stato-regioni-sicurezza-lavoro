@@ -1,0 +1,35 @@
+title: "Accordi Stato-Regioni Sicurezza Lavoro"
+description: "Sintesi degli Accordi Stato-Regioni in materia di formazione sicurezza sul lavoro (Italia): 2011, 2012, 2016 e nuovo Rep. 78/CSR del 17 aprile 2025."
+url: "https://tutor-sicurezza.github.io"
+baseurl: "/accordi-stato-regioni-sicurezza-lavoro"
+theme: minima
+lang: it
+
+author:
+  name: tutor-sicurezza
+  email: tutorsicurezza@gmail.com
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+minima:
+  skin: classic
+  social_links:
+    github: tutor-sicurezza
+
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - tsconfig.json
+  - src
+  - README.md
+  - CITATION.cff
+  - LICENSE
+
+defaults:
+  - scope:
+      path: "accordi"
+    values:
+      layout: default

@@ -1,4 +1,8 @@
 ---
+layout: default
+title: "Accordo Stato-Regioni 7 luglio 2016 — Rep. 128/CSR — Formazione RSPP, ASPP, formatori"
+description: "Sintesi dell’Accordo Stato-Regioni del 7 luglio 2016, Rep. 128/CSR: testo unico sulla formazione di RSPP, ASPP, datori di lavoro RSPP e formatori in materia di sicurezza sul lavoro."
+permalink: /accordo-stato-regioni-128-csr-2016-rspp/
 numeroAccordo: "128/CSR"
 data: "2016-07-07"
 materia: "Formazione RSPP, ASPP e formatori sicurezza"

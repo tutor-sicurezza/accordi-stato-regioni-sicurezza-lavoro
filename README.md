@@ -1,5 +1,6 @@
 # accordi-stato-regioni-sicurezza-lavoro
 
+[![Live site](https://img.shields.io/badge/Live%20site-tutor--sicurezza.github.io-2ea44f?logo=github)](https://tutor-sicurezza.github.io/accordi-stato-regioni-sicurezza-lavoro/)
 [![License: MIT + CC BY 4.0](https://img.shields.io/badge/license-MIT%20%2B%20CC%20BY%204.0-blue.svg)](./LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro)](https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro/releases)
 [![GitHub stars](https://img.shields.io/github/stars/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro?style=social)](https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro/stargazers)
