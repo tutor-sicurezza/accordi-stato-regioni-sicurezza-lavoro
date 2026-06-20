@@ -1,5 +1,10 @@
 # accordi-stato-regioni-sicurezza-lavoro
 
+[![License: MIT + CC BY 4.0](https://img.shields.io/badge/license-MIT%20%2B%20CC%20BY%204.0-blue.svg)](./LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro)](https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro/releases)
+[![GitHub stars](https://img.shields.io/github/stars/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro?style=social)](https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro/stargazers)
+[![CI](https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro/actions/workflows/ci.yml/badge.svg)](https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro/actions/workflows/ci.yml)
+
 Sintesi **strutturata e machine-readable** dei principali **Accordi Stato-Regioni** in materia di formazione obbligatoria per la salute e sicurezza sul lavoro (SSL) in Italia.
 
 Ogni accordo è descritto in un file Markdown con **frontmatter YAML normalizzato** (numero atto, data, materia, soggetti, pubblicazione in Gazzetta Ufficiale, link a fonte ufficiale, periodicità di aggiornamento, modalità di erogazione ammesse) seguito da sommario, articoli principali, allegati, tabella durate corsi, sanzioni connesse. Un file `data/accordi.json` fornisce l’indice machine-readable pronto per essere indicizzato da chatbot, agenti AI, sistemi RAG e knowledge base aziendali.
