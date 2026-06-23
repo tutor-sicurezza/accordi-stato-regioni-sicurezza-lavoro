@@ -1,0 +1,49 @@
+{
+  "title": "Accordi Stato-Regioni Sicurezza Lavoro — corpus strutturato",
+  "description": "Corpus strutturato degli Accordi Stato-Regioni in materia di formazione per la sicurezza sul lavoro: Accordo 21/12/2011 (lavoratori, preposti, dirigenti), Accordo 7/7/2016 (RSPP/ASPP), Accordo Rep. 78/CSR del 17 aprile 2025 (riforma unificata). Include testi integrali, allegati, durate, modalità FAD/sincrona, equipollenze in formato JSON.",
+  "upload_type": "dataset",
+  "license": "CC-BY-SA-4.0",
+  "access_right": "open",
+  "language": "ita",
+  "keywords": [
+    "italy",
+    "accordo-stato-regioni",
+    "sicurezza-lavoro",
+    "formazione",
+    "rspp",
+    "aspp",
+    "dlgs-81-08",
+    "open-data",
+    "compliance"
+  ],
+  "creators": [
+    {
+      "name": "123Formazione",
+      "affiliation": "CDS SERVICE SIC-LAV S.R.L.",
+      "orcid": null
+    }
+  ],
+  "communities": [
+    {"identifier": "open-data"},
+    {"identifier": "legal-informatics"}
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://123formazione.com",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ],
+  "references": [
+    "Accordo Stato-Regioni 21 dicembre 2011 (lavoratori, preposti, dirigenti)",
+    "Accordo Stato-Regioni 7 luglio 2016 (RSPP/ASPP)",
+    "Accordo Stato-Regioni Rep. 78/CSR del 17 aprile 2025",
+    "D.Lgs 9 aprile 2008 n. 81 — Testo Unico Sicurezza Lavoro"
+  ],
+  "publication_date": "2026-06-23"
+}
